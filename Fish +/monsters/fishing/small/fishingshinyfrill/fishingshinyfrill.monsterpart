@@ -1,0 +1,9 @@
+{
+  "name" : "fishingshinyfrill",
+  "category" : "fishingshinyfrill",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "fishingshinyfrill.png"
+  }
+}

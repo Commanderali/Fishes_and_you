@@ -1,0 +1,68 @@
+[
+  {
+    "op": "add",
+    "path": "/rarities/0",
+    "value": [
+      0.00125,
+      "Shiny"
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/pools/ocean/Shiny",
+    "value": [
+      {
+        "monster": "fishingshinyjerk",
+        "day": true,
+        "night": true,
+        "shallow": true,
+        "deep": false
+      },
+      {
+        "monster": "fishingshinyfrill",
+        "day": true,
+        "night": false,
+        "shallow": true,
+        "deep": true
+      }
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/pools/ocean/legendary/0/night",
+    "value": false
+  },
+  {
+    "op": "add",
+    "path": "/pools/ocean/legendary/-",
+    "value": {
+      "monster": "fishingsob",
+      "day": false,
+      "night": true,
+      "shallow": false,
+      "deep": true
+    }
+  },
+  {
+    "op": "add",
+    "path": "/pools/toxic/rare/-",
+    "value": {
+      "monster": "rollingwastefish",
+      "day": true,
+      "night": true,
+      "shallow": false,
+      "deep": true
+    }
+  },
+  {
+    "op": "add",
+    "path": "/pools/magma/common/-",
+    "value": {
+      "monster": "fishingflame",
+      "day": true,
+      "night": false,
+      "shallow": true,
+      "deep": true
+    }
+  }
+]

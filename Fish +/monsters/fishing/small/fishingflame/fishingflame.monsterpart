@@ -1,0 +1,9 @@
+{
+  "name" : "fishingflame",
+  "category" : "fishingflame",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "fishingflame.png"
+  }
+}

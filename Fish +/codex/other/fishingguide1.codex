@@ -1,0 +1,40 @@
+{
+  "id" : "fishingguide1",
+  "title" : "Ocean Fishing Guide",
+   "description" : "A guide about fishes in the ocean.",
+  "icon" : "florancover4.png",
+  "contentPages" : [
+    "Welcome to the fishing guide for oceans! During this guide, you will learn the fish, where you can find them and a description about them!
+	
+	Before you jump in and fish, you need to learn what you need. The items you require are...:
+	A fishing rod!
+	
+	It's that simple!",
+	
+	"How to fish.
+	
+	Firstly, rest your rod on your shoulder in a throwing position. Once you feel like you can throw the lure far enough, throw!
+	
+	Now that you threw the rod, you can move the lure (W,A,S,D) to lure fish in. Once you feel it biting, reel in (W/L Click). If you feel it tug, don't reel.",
+	
+	"If all's done right, you would of fished up a fish of your very own! The next few pages will tell you what fish you can reel up!",
+	
+	"The ^green; Jerkfish ^reset; is a small fish found in the shallow parts of the ocean. ^green; Jerkfish ^reset; naturally have impolite demeanour, and while weak, are quite snappy. This makes them quite common.",
+	
+	"The ^green; Sandy Dirtwhisker ^reset; is known for being able to look extra disappointed. ^green; Sandy Dirtwhisker's ^reset; mostly stalk their prey, but if they can't attack their prey, they'll swim away.",
+	
+	"A ^green; Toothy Mudchop ^reset; is one of the sneakiest predators of the ocean. They use their skin as a camolfauge in the muddy seabed, and attack when prey is near.",
+	
+	"The ^blue; Funnyfish ^reset; resembles a clownfish from the planet Earth. Rumor has it that being near a ^blue; Funnyfish ^reset; makes beings laugh easily, but there is no scientific evidence that proves this.",
+	
+	"A ^blue; SquareBoy ^reset; , as its name suggests, isa square shaped fish. Supprisingly, despite its square like shape, is fully capable of swimming like a normal fish. Scientists so far hasn't discovered why that is.",
+	
+	"The ^blue; Frilled Tadguppy ^reset; is a fish that easily distracts prey by using it's large tail, making rhythmic pulses. These pulses distracts the predator, giving the ^blue; Frilled Tadguppy ^reset; a chance to escape."
+	
+	
+  ],
+    "itemConfig" : {
+    "rarity" : "common",
+    "price" : 25
+  }
+}

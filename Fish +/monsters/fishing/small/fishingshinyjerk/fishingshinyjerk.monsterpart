@@ -1,0 +1,9 @@
+{
+  "name" : "fishingshinyjerk",
+  "category" : "fishingshinyjerk",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "fishingshinyjerk.png"
+  }
+}

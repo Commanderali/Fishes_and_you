@@ -1,0 +1,9 @@
+{
+  "name" : "rollingwastefish",
+  "category" : "rollingwastefish",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "rollingwastefish.png"
+  }
+}

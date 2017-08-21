@@ -1,0 +1,27 @@
+{
+  "thatstrings" : [
+    [0, {
+	  "pool" : [
+	    {"weight" : 0.14, "item" : "acousticguitar"},
+		{"weight" : 0.14, "item" : "Banjo"},
+		{"weight" : 0.14, "item" : "bassguitar"},
+		{"weight" : 0.14, "item" : "electricbass"},
+		{"weight" : 0.14, "item" : "leadguitar"},
+		{"weight" : 0.14, "item" : "nylonguitar"},
+		{"weight" : 0.14, "Item" : "overdriveguitar"}
+	  ],
+	  "allowDuplication" : true
+    }]
+  ]
+  "fishingwastefish" : [
+    [0, {
+	  "fill" : [
+		{"item" : "rawfish"}
+	 ],
+	  "pool" : [
+		{"weight" : 1.0, "pool" : "thatstrings"}
+	  ],
+	  "allowDuplication" : true
+	}]
+  ]
+}

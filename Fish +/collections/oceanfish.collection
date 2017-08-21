@@ -1,0 +1,9 @@
+{
+  "name" : "oceanfishing",
+  "title" : "Ocean Fish +",
+  "type" : "monster",
+  
+  "collectables" : {
+    "fishingsob" : { "order" : 1, "monsterType" : "fishingsob", "icon" : "/monsters/fishing/large/sob/fishingsob.png:swim1" }
+  }
+}
